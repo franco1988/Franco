@@ -6,7 +6,8 @@ pude terminar y es algo que me gustaria retomar. 💻 📚
 
 - Si te interesa saber más sobre mi te dejo mi **[Perfil de Linkedin](https://www.linkedin.com/in/francomcruz/)**
 
-- Tecnologias que manejo:
+- Tecnologias que manejo: CCS3, EXPRESS, GIT, HTML5, JAVASCRIPT, LINUX, NODE JS, POSTGRES, POSTMAN, REACT, REDUX 
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a> <a href="https://expressjs.com" target="_blank"> 
