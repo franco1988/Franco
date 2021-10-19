@@ -5,8 +5,8 @@ pude terminar y es algo que me gustaria retomar. 💻 📚
 - En marzo del 2021 ingrese al bootcam de full-stack development de la academia Henry.
 
 - Si te interesa saber más sobre mi te dejo mi 
-- **[Perfil de Linkedin](https://www.linkedin.com/in/francomcruz/)** 
-- **[Portafolio](https://francoplazafc.wixsite.com/miportfolio)**
+  **[Perfil de Linkedin](https://www.linkedin.com/in/francomcruz/)** 
+  **[Portafolio](https://francoplazafc.wixsite.com/miportfolio)**
 
 - Tecnologias que manejo: CCS3, EXPRESS, GIT, HTML5, JAVASCRIPT, LINUX, NODE JS, POSTGRES, POSTMAN, REACT, REDUX 
 
