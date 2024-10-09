@@ -1,14 +1,12 @@
-## Hola 👋.
-Me llamo **Franco Cruz**. Vivo en Argentina, provincia de Jujuy. 🇦🇷 ⛰️
-- Soy un apasionado por la programacion y la resolucion de problemas, estudie Licencitura en Informatica pero no
-pude terminar y es algo que me gustaria retomar. 💻 📚
-- En marzo del 2021 ingrese al bootcam de full-stack development de la academia Henry.
+Soy un **Frontend Developer** con 3 años de experiencia, especializado en la creación de aplicaciones web interactivas y dinámicas utilizando tecnologías como React.js, Next.js. 
+Mi enfoque en el desarrollo basado en componentes y la gestión eficiente del estado con Redux me permite construir interfaces de usuario escalables y de alto rendimiento. 
+Además, cuento con conocimientos en AWS para implementar soluciones escalables en la nube. 
+Busco oportunidades remotas donde pueda contribuir con mis habilidades y continuar creciendo profesionalmente. Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades para ofrecer soluciones innovadoras y efectivas.
 
 - Si te interesa saber más sobre mi te dejo mi 
-  **[Perfil de Linkedin](https://www.linkedin.com/in/francomcruz/)** 
-  **[Portafolio](https://francoplazafc.wixsite.com/miportfolio)**
+  **[Perfil de Linkedin](https://www.linkedin.com/in/franco-maximiliano-cruz/)** 
 
-- Tecnologias que manejo: CCS3, EXPRESS, GIT, HTML5, JAVASCRIPT, LINUX, NODE JS, POSTGRES, POSTMAN, REACT, REDUX 
+- Tecnologias que manejo: REACT, REDUX, NEXT.JS, AWS, CCS3, GIT, HTML5, JAVASCRIPT, LINUX, POSTMAN 
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
